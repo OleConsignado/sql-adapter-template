@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Ole Consignado",
+  "classifications": [ "ClassLibrary", "Adapter" ],
+  "identity": "SqlAdapter",
+  "name": "Sql Adapter",
+  "shortName": "sqladapter",
+  "sourceName": "SqlAdapter.Template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

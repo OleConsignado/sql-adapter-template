@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+    <PackageReference Include="Dapper" Version="1.60.6" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Otc.Caching.Abstractions" Version="1.0.0" />
+    <PackageReference Include="Otc.ComponentModel.Annotations" Version="1.0.1" />
+    <PackageReference Include="Otc.Networking.Http.Client.Abstractions" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
